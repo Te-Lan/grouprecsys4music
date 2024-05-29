@@ -11,3 +11,4 @@ This repo contains:
 - Revamped and adapted code in a jupyter notebook for this project [Revamped_Group_Recommender.ipynb]
 - Data processing notebook [Echonest_dataset_processing.ipynb]
 - EN41K dataset used for training [EN_41K_rate.tsv]
+- Slides used in video presention [Presentation_Group Recommendation for Music.pdf]
